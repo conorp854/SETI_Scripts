@@ -4,4 +4,4 @@ Some of the scripts written while taking SETI: Search for Extra-terretrial Intel
 
 Descriptions of scripts to follow.
 
-![picture](sourcesPlotPIC.png)
+![alt text](sourcesPlotPic_Draft.PNG)
